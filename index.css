@@ -1,0 +1,16 @@
+.bod {
+  border: 10px;
+  background-color: black;
+  font-size: large;
+  margin-top: 30px;
+  color: aquamarine;
+}
+.heading {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border: 10px;
+  border-color: white;
+}
+.table{
+     color: blue;
+}
